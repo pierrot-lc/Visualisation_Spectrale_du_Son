@@ -7,3 +7,5 @@ TP réalisé lors du cours d'OpenClassrooms (https://openclassrooms.com/fr/cours
 Lien vers le sujet du TP : https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/19556-tp-visualisation-spectrale-du-son.
 
 TP réalisé sur CodeBlocks (qui explique le bordel du repo).
+
+Dans le dossier 'setup', il y a un executable qui permet d'installer le projet sur une machine Windows.
